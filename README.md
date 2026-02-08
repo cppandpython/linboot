@@ -9,7 +9,7 @@
 
 <br>
 
-linboot — Lock the system 
+linboot — Block on system at the MBR or UEFI level
 
 <br>
 
@@ -37,7 +37,7 @@ python linboot.py
 
 <br>
 
-linboot — Блокирует систему
+linboot — Блокировка системы на уровне MBR или UEFI
 
 <br>
 
