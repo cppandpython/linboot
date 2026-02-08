@@ -1,0 +1,60 @@
+# 🌟 linboot
+
+<br><br>
+![linboot.png](linboot.png)
+<br><br>
+
+
+## en
+
+<br>
+
+linblock — Lock the system 
+
+<br>
+
+## 🚀 Features
+
+- ✅ Full blocking
+- 📦 compiled
+
+<br>
+
+## 🧰 Installation
+
+[Download linblock](https://github.com/cppandpython/linblock/blob/main/linblock)
+
+```bash
+# Launch
+chmod +x linblock
+./linblock
+```
+
+
+<br><br><br>
+
+
+## ru
+
+<br>
+
+linblock — Блокирует систему
+
+<br>
+
+## 🚀 Функции
+
+- ✅ Полная блокировка 
+- 📦 скомпилировано
+
+<br>
+
+## 🧰 Установка
+
+[Скачать linblock](https://github.com/cppandpython/linblock/blob/main/linblock)
+
+```bash
+# Запуск
+chmod +x linblock
+./linblock
+```
