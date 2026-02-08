@@ -22,7 +22,7 @@ linboot — Lock the system
 
 ## 🧰 Installation
 
-[Download linblock](https://github.com/cppandpython/linblock/blob/main/linblock)
+[Download linboot](https://github.com/cppandpython/linboot/blob/main/linboot.py)
 
 ```bash
 # Launch
