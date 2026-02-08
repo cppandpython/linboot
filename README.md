@@ -9,7 +9,7 @@
 
 <br>
 
-linblock — Lock the system 
+linboot — Lock the system 
 
 <br>
 
@@ -26,8 +26,7 @@ linblock — Lock the system
 
 ```bash
 # Launch
-chmod +x linblock
-./linblock
+python linboot.py
 ```
 
 
@@ -38,7 +37,7 @@ chmod +x linblock
 
 <br>
 
-linblock — Блокирует систему
+linboot — Блокирует систему
 
 <br>
 
@@ -51,10 +50,9 @@ linblock — Блокирует систему
 
 ## 🧰 Установка
 
-[Скачать linblock](https://github.com/cppandpython/linblock/blob/main/linblock)
+[Скачать linboot](https://github.com/cppandpython/linboot/blob/main/linboot.py)
 
 ```bash
 # Запуск
-chmod +x linblock
-./linblock
+python linboot.py
 ```
