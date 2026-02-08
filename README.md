@@ -9,14 +9,15 @@
 
 <br>
 
-linboot — Block on system at the MBR or UEFI level
+linboot — Block system at the MBR or UEFI level
 
 <br>
 
 ## 🚀 Features
 
 - ✅ Full blocking
-- 📦 compiled
+- ⚙️ MBR, UEFI
+- 📦 Built-in libraries only
 
 <br>
 
@@ -43,8 +44,9 @@ linboot — Блокировка системы на уровне MBR или UEF
 
 ## 🚀 Функции
 
-- ✅ Полная блокировка 
-- 📦 скомпилировано
+- ✅ Полная блокировка
+- ⚙️ MBR, UEFI
+- 📦 Только встроенные библиотеки
 
 <br>
 
