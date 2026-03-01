@@ -17,7 +17,7 @@ linboot — Block system at the MBR or UEFI level
 ## 🚀 Features
 
 - ✅ Full blocking
-- ⚙️ MBR, UEFI
+- ⚙️ MBR, UEFI, GRUB
 - 📦 Built-in libraries only
 
 <br>
@@ -46,7 +46,7 @@ linboot — Блокировка системы на уровне MBR или UEF
 ## 🚀 Функции
 
 - ✅ Полная блокировка
-- ⚙️ MBR, UEFI
+- ⚙️ MBR, UEFI, GRUB
 - 📦 Только встроенные библиотеки
 
 <br>
